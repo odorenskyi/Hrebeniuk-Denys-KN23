@@ -1,0 +1,6 @@
+#ifndef MODULESHREBENIUK_H_INCLUDED
+#define MODULESHREBENIUK_H_INCLUDED
+
+float s_calculation(int, int, int);
+
+#endif // MODULESHREBENIUK_H_INCLUDED
