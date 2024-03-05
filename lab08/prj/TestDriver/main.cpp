@@ -4,23 +4,23 @@
 using namespace std;
 
 void test_tc(int test_case, int x, int y, int z, float expected) {
-    cout << "Òåñò-êåéñ ¹" << test_case << endl;
-    cout << "Âõ³äí³ äàí³:\nx: " << x << "\ny: " << y << "\nz: " << z << endl;
+    cout << "Ğ¢ĞµÑÑ‚-ĞºĞµĞ¹Ñ â„–" << test_case << endl;
+    cout << "Ğ’Ñ…Ñ–Ğ´Ğ½Ñ– Ğ´Ğ°Ğ½Ñ–:\nx: " << x << "\ny: " << y << "\nz: " << z << endl;
 
     float result = s_calculation(x, y, z);
-    cout << "Ğåçóëüòàò: " << result << endl;
+    cout << "Ğ ĞµĞ·ÑƒĞ»ÑŒÑ‚Ğ°Ñ‚: " << result << endl;
 
     if (result == expected) {
-        cout << "Ñòàòóñ òåñò-êåéñà: passed" << endl;
+        cout << "Ğ¡Ñ‚Ğ°Ñ‚ÑƒÑ Ñ‚ĞµÑÑ‚-ĞºĞµĞ¹ÑĞ°: passed" << endl;
     } else {
-        cout << "Ñòàòóñ òåñò-êåéñà: failed" << endl;
+        cout << "Ğ¡Ñ‚Ğ°Ñ‚ÑƒÑ Ñ‚ĞµÑÑ‚-ĞºĞµĞ¹ÑĞ°: failed" << endl;
     }
 
     cout << endl;
 }
 
 int main() {
-    system("chcp 1251 & cls");
+    system("chcp 65001 & cls");
 
     test_tc(1, 5, -27, -21, 532048248832);
     test_tc(2, -20, 28, -24, 1446257098752);
