@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1712173715 source:d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab08\prj\moduleshrebeniuk\main.cpp
+	<cmath>
+	<fstream>
+	<ctime>
+	<bitset>
+	"ModulesHrebeniuk.h"
+
+1712173802 d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab08\prj\moduleshrebeniuk.h
+
