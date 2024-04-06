@@ -16,4 +16,9 @@ float calculateElectricityConsume(int);
 Temperature averageYearTemperature(int averageMonthTemperature[MONTH_IN_YEAR]);
 unsigned int countBinaryZerosOrOnes(unsigned int);
 
+// Laboratory work ¹10
+void taskTenthPointOne(std::string, std::string);
+void taskTenthPointTwo(std::string);
+void taskTenthPointThree(int, int, int, unsigned int, std::string);
+
 #endif // MODULESHREBENIUK_H_INCLUDED
