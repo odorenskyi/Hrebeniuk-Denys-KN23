@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1715895529 source:d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab11\prj\prj_1_hrebeniuk\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+	<conio.h>
+	"struct_type_project_1.h"
+	"ModulesHrebeniuk.h"
+	"ModulesHoncharenko.h"
+	"ModulesKlui.h"
+
+1715378674 d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab11\prj\struct_type_project_1.h
+
+1715510784 d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab11\prj\dependencies\struct_type_project_1.h
+
+1715515274 d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab11\prj\dependencies\moduleshrebeniuk.h
+
+1715515682 d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab11\prj\dependencies\moduleshoncharenko.h
+
+1715624617 d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab11\prj\dependencies\modulesklui.h
+	"struct_type_project_1.h"
+
