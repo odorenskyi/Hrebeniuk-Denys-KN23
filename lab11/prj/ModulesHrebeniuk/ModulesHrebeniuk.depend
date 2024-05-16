@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1715628069 source:d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab11\prj\moduleshrebeniuk\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"struct_type_project_1.h"
+
+1715511554 d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab11\prj\dependencies\moduleshrebeniuk.h
+	"struct_type_project_1.h"
+
+1715510784 d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab11\prj\dependencies\struct_type_project_1.h
+
