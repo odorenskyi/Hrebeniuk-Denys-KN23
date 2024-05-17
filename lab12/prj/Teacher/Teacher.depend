@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1715982242 source:d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab12\prj\teacher\main.cpp
+	<iostream>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<limits>
+	"ModulesHrebeniuk.h"
+
+1715981993 d:\personal data\study\university\1 year\bmtp\hrebeniuk-denys-kn23\lab12\prj\moduleshrebeniuk.h
+	<cmath>
+

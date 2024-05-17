@@ -1,0 +1,10 @@
+|||
+red|striped|0.1|0.1
+||5.0|3.0
+||0.05|0.05
+blue||2.0|1.0
+|dotted|0.05|0.1
+green|checkered|10.0|5.0
+yellow|plain|-5.0|-3.0
+purple|solid|100.0|50.0
+black|gradient|1.0|0.0
